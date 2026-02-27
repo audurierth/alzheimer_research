@@ -1,6 +1,6 @@
 # alzheimer_research
-Projet d'initiation à la recherche sur un jeu de données d'images médicales Alzheimer.
+Introductory research project on a dataset of medical images related to Alzheimer's disease.
 
-Deux versions:
-- Une version publication scientifique
-- Une version notebook expérimentale
+Two versions:
+- A scientific publication version
+- An experimental notebook version
